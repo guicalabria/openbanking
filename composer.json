@@ -1,0 +1,27 @@
+{
+    "name": "guicalabria/openbaking",
+    "type": "library",
+    "version": "0.1",
+    "description": "API para conexão e manipulação dos dados com o OpenBaking do Governo Federal",
+    "keywords": ["OpenBanking"],
+    "homepage": "https://github.com/guicalabria/openbanking",
+    "license": ["Mozilla Public License 2.0"],
+    "authors": [
+        {
+            "name": "Guilherme Calabria Filho",
+            "email": "guiga86@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">= 7.0"
+    },
+   	"autoload": {
+   		"classmap": ["src/"]
+   	},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "dev-master"
+        }
+    }
+}
