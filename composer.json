@@ -1,5 +1,5 @@
 {
-    "name": "guicalabria/openbaking",
+    "name": "guicalabria/openbanking",
     "type": "library",
     "version": "0.1",
     "description": "API para conexão e manipulação dos dados com o OpenBaking do Governo Federal",
